@@ -1,5 +1,5 @@
 # This shows how to create the virtual network in Azure followed by the subnets
-
+# Add this line from jrombough3
 #First we need to connect to the Azure cloud
 Connect-AzAccount
 
