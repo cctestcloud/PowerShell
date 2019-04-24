@@ -2,6 +2,7 @@
 # Add this line from jrombough3
 # Comment added 20190424 to test git changes 
 #First we need to connect to the Azure cloud
+#This is done on the linux box
 Connect-AzAccount
 
 #This is the stage where we create the virtual network. Can be thought of as a supernet (as opposed to subnet)
